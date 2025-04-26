@@ -1,0 +1,28 @@
+body{
+    width: 400px;
+    height: 410px;
+    border-radius: 10px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(243, 235, 235);
+
+}
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+}
+#gallery img {
+    margin-top: 20px;
+}
+#accordion h3 {
+    cursor: pointer;
+    background: #eee;
+    margin: 0;
+    padding: 10px;
+}
+.content {
+    display: none;
+    padding: 10px;
+    background: #f9f9f9;
+}
